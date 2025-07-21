@@ -1,4 +1,4 @@
-1.🦆 DUCK JUMP : A Scratch Side-Scroller
+## 🦆 DUCK JUMP : A Scratch Side-Scroller
 
 Inspired by the classic Chrome Dino game — but this time, it’s ON THE water!
 
